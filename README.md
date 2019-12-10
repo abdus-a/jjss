@@ -1,2 +1,0 @@
-# jjss
-Created with CodeSandbox
